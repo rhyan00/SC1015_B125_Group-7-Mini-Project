@@ -27,7 +27,7 @@ _to be filled_
 
 ## Contributors
 _to be filled_
-@rhyan00 
+@ rhyan00 
 
 ## References
 _to be filled_
