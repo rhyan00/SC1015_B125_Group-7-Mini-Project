@@ -10,16 +10,13 @@ This is our Mini-Project for SC1015 which is based on the energy consumption of 
 5. Core Analysis
 
 ## Project's Motivation
-With the heavy reliance on imported oil products and rising population, the study of energy consumption is therefore crucial. 
-
-Improving the energy consumption forecast can help the following:
+With the heavy reliance on imported oil products and it's rising population, the study of energy consumption is therefore crucial. Improving the energy consumption forecast can therefore help with the following:
 - Reduces production costs (excess supply is hard and expensive to store)
 - Avoid power shortages
 - Ensure energy demands are met
 
 ## Problem Definition
 1. Are we able to predict the energy consumption based on a given week?
-
 2. Which of the models implemented will be better at predicting the energy consumption?
 
 ## Conclusion
