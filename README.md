@@ -7,7 +7,7 @@ This is our Mini-Project for SC1015 which is based on the energy consumption of 
 2. Random Forest
 3. LTSM 
 4. XGBoost
-5. Core 
+5. Core Analysis
 
 ## Project's Motivation
 With the heavy reliance on imported oil products and rising population, the study of energy consumption is therefore crucial. 
