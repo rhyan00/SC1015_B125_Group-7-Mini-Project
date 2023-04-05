@@ -10,7 +10,7 @@ This is our Mini-Project for SC1015 which is based on the energy consumption of 
 5. Core Analysis
 
 ## Project's Motivation
-Tetouan is a northern city located in Morrocco, as from the dataset collected in 2017, the country relied heavily on imported oil products while it's population size was rising steadily. The study of energy consumption is therefore crucial and improving the energy consumption forecast can therefore help with the following:
+Tetouan, is a northern city located in Morrocco and as of the dataset collected in 2017, the country relies heavily on imported oil products while it's population size rose steadily. The study of energy consumption is therefore crucial and improving the energy consumption forecast can therefore help with the following:
 - Reduces production costs (excess supply is hard and expensive to store)
 - Avoid power shortages
 - Ensure energy demands are met
