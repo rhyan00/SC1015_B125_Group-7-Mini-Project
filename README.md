@@ -27,6 +27,7 @@ _to be filled_
 
 ## Contributors
 _to be filled_
++ @haiyen11231  - LSTM Model
 + @rhyan00 
 
 ## References
