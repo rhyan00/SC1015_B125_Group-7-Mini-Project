@@ -4,6 +4,17 @@
 This is our Mini-Project for SC1015 which is based on the energy consumption of Tétouan City. For a detailed walkthrough, please view the source code in this order:
 
 1. Exploratory Data Analysis
+2. Random Forest
+3. LTSM 
+4. XGBoost
+5. Core 
+
+# Welcome to B125_Team 7's repository
+
+## About
+This is our Mini-Project for SC1015 which is based on the energy consumption of Tétouan City. For a detailed walkthrough, please view the source code in this order:
+
+1. Exploratory Data Analysis
 2. XBGBoost
 3. LSTM 
 4. Random
@@ -19,10 +30,16 @@ Tetouan, is a northern city located in Morrocco and as of the dataset collected 
 2. Are we able to predict the energy consumption based on a given week?
 
 ## Conclusion
-_to be filled_
+- LSTM is much more accurate, however it does have its limitations
+- XGBoost is more suitable for our problem because of its versatility while still be accurate in its predictions
+- There will be spikes of energy consumption during the holidays, which can be taken into consideration for energy generating companies
 
 ## Learning Points From Mini Project
-_to be filled_
+- Normalisation of data for LSTM model, 
+- Different variation of LSTM model (vanilla and stacked)
+- Predicting method using sequential data vs cross-sectional data
+- Both LSTM and XGBoost are flexible, able to be implemented with either of the aforementioned predicitng method
+- Random Forest is not suited for time series problems
 
 ## Contributors
 These are the contributors and the models they have done up:
