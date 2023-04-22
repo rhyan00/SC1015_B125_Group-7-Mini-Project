@@ -7,7 +7,6 @@ This is our Mini-Project for SC1015 which is based on the energy consumption of 
 2. Random Forest
 3. LTSM 
 4. XGBoost
-5. Core 
 
 # Welcome to B125_Team 7's repository
 
@@ -35,8 +34,8 @@ Tetouan, is a northern city located in Morrocco and as of the dataset collected 
 - There will be spikes of energy consumption during the holidays, which can be taken into consideration for energy generating companies
 
 ## Learning Points From Mini Project
-- Normalisation of data for LSTM model, 
-- Different variation of LSTM model (vanilla and stacked)
+- Normalisation of data for LSTM model as the model is sensitive to large data 
+- Different variation of LSTM model, namely vanilla and stacked
 - Predicting method using sequential data vs cross-sectional data
 - Both LSTM and XGBoost are flexible, able to be implemented with either of the aforementioned predicitng method
 - Random Forest is not suited for time series problems
@@ -52,3 +51,4 @@ These are the contributors and the models they have done up:
 2) https://medium.datadriveninvestor.com/
 3) https://www.kaggle.com/code/robikscube/tutorial-time-series-forecasting-with-xgboost/notebook
 4) https://www.kaggle.com/code/robikscube/time-series-forecasting-with-machine-learning-yt
+5) https://worldpopulationreview.com/world-cities/tetouan-population
