@@ -26,9 +26,9 @@ _to be filled_
 _to be filled_
 
 ## Contributors
-_to be filled_
+These are the contributors and the areas they done up:
 + @haiyen11231  - LSTM Model
-+ @rhyan00 
++ @rhyan00      - Random Forest Model
 
 ## References
 _to be filled_
