@@ -26,7 +26,7 @@ _to be filled_
 _to be filled_
 
 ## Contributors
-These are the contributors and the areas they done up:
+These are the contributors and the models they have done up:
 + @nathan-choo  - XGBoost Model
 + @haiyen11231  - LSTM Model
 + @rhyan00      - Random Forest Model
