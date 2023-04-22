@@ -16,8 +16,8 @@ Tetouan, is a northern city located in Morrocco and as of the dataset collected 
 - Ensure energy demands are met
 
 ## Problem Definition
-1. Are we able to predict the energy consumption based on a given week?
-2. Which of the models implemented will be better at predicting the energy consumption?
+1. Which of the models implemented will be better at predicting the energy consumption?
+2. Are we able to predict the energy consumption based on a given week?
 
 ## Conclusion
 _to be filled_
