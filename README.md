@@ -48,7 +48,7 @@ These are the contributors and the models they have done up:
 + @rhyan00      - Random Forest Model
 
 ## References
-https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city
-https://medium.datadriveninvestor.com/
-https://www.kaggle.com/code/robikscube/tutorial-time-series-forecasting-with-xgboost/notebook
-https://www.kaggle.com/code/robikscube/time-series-forecasting-with-machine-learning-yt
+1) https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city
+2) https://medium.datadriveninvestor.com/
+3) https://www.kaggle.com/code/robikscube/tutorial-time-series-forecasting-with-xgboost/notebook
+4) https://www.kaggle.com/code/robikscube/time-series-forecasting-with-machine-learning-yt
