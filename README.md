@@ -4,10 +4,9 @@
 This is our Mini-Project for SC1015 which is based on the energy consumption of Tétouan City. For a detailed walkthrough, please view the source code in this order:
 
 1. Exploratory Data Analysis
-2. Random Forest
-3. LTSM 
-4. XGBoost
-5. Core Analysis
+2. XBGBoost
+3. LSTM 
+4. Random
 
 ## Project's Motivation
 Tetouan, is a northern city located in Morrocco and as of the dataset collected in 2017, the country relies heavily on imported oil products while it's population size rose steadily. The study of energy consumption is therefore crucial and improving the energy consumption forecast can therefore help with the following:
@@ -32,4 +31,7 @@ These are the contributors and the models they have done up:
 + @rhyan00      - Random Forest Model
 
 ## References
-_to be filled_
+https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city
+https://medium.datadriveninvestor.com/
+https://www.kaggle.com/code/robikscube/tutorial-time-series-forecasting-with-xgboost/notebook
+https://www.kaggle.com/code/robikscube/time-series-forecasting-with-machine-learning-yt
