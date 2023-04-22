@@ -27,8 +27,9 @@ _to be filled_
 
 ## Contributors
 These are the contributors and the areas they done up:
-+ @haiyen11231  \t - LSTM Model
-+ @rhyan00      \t - Random Forest Model
++ @nathan-choo  - XGBoost Model
++ @haiyen11231  - LSTM Model
++ @rhyan00      - Random Forest Model
 
 ## References
 _to be filled_
