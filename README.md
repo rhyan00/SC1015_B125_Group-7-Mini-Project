@@ -1,7 +1,7 @@
 # Welcome to B125_Team 7's repository
 
 ## About
-This is our Mini-Project for SC1015 which is based on the energy consumption of Tétouan City. All folders consist of the prediction using 15 days, only XGBoost contains the additional codes for our core analysis. For a detailed walkthrough, please view the source code in this order:
+This is our Mini-Project for SC1015 which is based on the energy consumption of Tétouan City. All folders consist of the prediction using 15days, only XGBoost contains the additional codes for our core analysis. For a detailed walkthrough, please view the source code in this order:
 
 1. Exploratory Data Analysis
 2. XBGBoost (consist of core analysis)
