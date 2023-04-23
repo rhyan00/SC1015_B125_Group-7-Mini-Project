@@ -1,12 +1,13 @@
 # Welcome to B125_Team 7's repository
 
 ## About
-This is our Mini-Project for SC1015 which is based on the energy consumption of Tétouan City. All folders consist of the prediction using 15days, only XGBoost contains the additional codes for our core analysis. For a detailed walkthrough, please view the source code in this order:
+This is our Mini-Project for SC1015 which is based on the energy consumption of Tétouan City. All folders consist of the prediction using 15days, only XGBoost contains the additional codes for our core analysis. For a detailed walkthrough, please view the files in this order:
 
 1. Exploratory Data Analysis
-2. XBGBoost (consist of core analysis)
+2. XBGBoost
 3. LSTM 
 4. Random Forest
+5. Presentation Slides (for reference)
 
 ## Project's Motivation
 Tetouan, is a northern city located in Morrocco and as of the dataset collected in 2017, the country relies heavily on imported oil products while it's population size rose steadily. The study of energy consumption is therefore crucial and improving the energy consumption forecast can therefore help with the following:
